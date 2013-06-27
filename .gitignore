@@ -40,3 +40,6 @@ nosetests.xml
 *.gif
 *.tif
 *.bmp
+
+# Drafts of scripts
+_drafts/
